@@ -16,6 +16,9 @@ Note: the code below is not syntactically correct and will not run until
 you replace the # YOUR CODE HERE with the correct solution.
 '''
 
+'''
+This is an easy one.
+'''
 
 def main():
     x = 5
